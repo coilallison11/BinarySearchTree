@@ -1,0 +1,47 @@
+Motorola Inc.
+MOT
+17.49
+Microsoft Corp.
+MSFT
+28.11
+Tesla
+TSLA
+564.33
+Intel
+INTC
+60.78
+Sony
+SNE
+105.81
+Advanced Micro Devices
+AMD
+84.51
+NVIDIA
+NVDA
+548.58
+Apple
+AAPL
+121.73
+Ford Motor
+F
+11.70
+General Electric
+GE
+12.54
+
+Apple                    AAPL      $121.73
+
+Advanced Micro Devices   AMD       $84.51
+
+Emerson                  EMR       $96.64
+
+Intel                    INTC      $60.78
+
+Motorola Inc.            MOT       $17.49
+
+NVIDIA                   NVDA      $548.58
+
+Sony                     SNE       $105.81
+
+Tesla                    TSLA      $564.33
+
